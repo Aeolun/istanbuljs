@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.2.0](https://github.com/Aeolun/istanbuljs/compare/istanbul-reports-v3.1.6...istanbul-reports-v3.2.0) (2023-10-10)
+
+
+### Features
+
+* add filter to HTML report ([#650](https://github.com/Aeolun/istanbuljs/issues/650)) ([eab47f7](https://github.com/Aeolun/istanbuljs/commit/eab47f76be90343f679ef0e5567a21447a4995dc))
+
+
+### Bug Fixes
+
+* "E" is not showing in the HTML reporter for "implicit else" branches after pull 633 ([#663](https://github.com/Aeolun/istanbuljs/issues/663)) ([7818922](https://github.com/Aeolun/istanbuljs/commit/7818922fd7229c4eee12b1407b5a13020f5d34de))
+* `new Date()` such that it works with MockDate library ([#688](https://github.com/Aeolun/istanbuljs/issues/688)) ([85905f9](https://github.com/Aeolun/istanbuljs/commit/85905f989c9480e63ad534c6ff8b1a12dae278eb))
+* add placeholder to fix Implicit Else ([#679](https://github.com/Aeolun/istanbuljs/issues/679)) ([0516f51](https://github.com/Aeolun/istanbuljs/commit/0516f519575ee28f77ebf1e9556ac294d78904ea))
+* **clover:** always close last open tag ([07c6ea6](https://github.com/Aeolun/istanbuljs/commit/07c6ea6537261a19b117702b7362dee0bdc001ac))
+* cobertura paths fix ([da017c3](https://github.com/Aeolun/istanbuljs/commit/da017c339fb7cd2af093d0205b0d638814774efb))
+* cobertura reports in root folder ([#571](https://github.com/Aeolun/istanbuljs/issues/571)) ([596f6ff](https://github.com/Aeolun/istanbuljs/commit/596f6ff1342ae4baa6688bf3ee7786c75d4df947))
+* handle reports with "loc" but no "decl" ([#637](https://github.com/Aeolun/istanbuljs/issues/637)) ([cdc28f3](https://github.com/Aeolun/istanbuljs/commit/cdc28f3a1e80e786eaab3b7d3b8b9b558fc2d3c8)), closes [#322](https://github.com/Aeolun/istanbuljs/issues/322)
+* lcov reporter crash when missing branches ([#613](https://github.com/Aeolun/istanbuljs/issues/613)) ([d34981c](https://github.com/Aeolun/istanbuljs/commit/d34981c8131e2ecbff6fc02ffd8702fd9808e241))
+* rel="noopener" to the link in the generated html reports ([f234bb3](https://github.com/Aeolun/istanbuljs/commit/f234bb321421e7312a83595934a1abf81c7af70c))
+* remove stray div tag from HTML report ([68d9c74](https://github.com/Aeolun/istanbuljs/commit/68d9c7469927ddcf15346307eacea8fd7104086c))
+* reverse tabnabbing vulnerability in URLs ([#591](https://github.com/Aeolun/istanbuljs/issues/591)) ([4eceb9e](https://github.com/Aeolun/istanbuljs/commit/4eceb9eb8b3169b882d74ecc526fb5837ebc6205))
+
 ## [3.1.6](https://github.com/istanbuljs/istanbuljs/compare/istanbul-reports-v3.1.5...istanbul-reports-v3.1.6) (2023-07-25)
 
 
