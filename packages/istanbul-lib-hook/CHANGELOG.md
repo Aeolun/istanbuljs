@@ -46,6 +46,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [3.0.1](https://github.com/Aeolun/istanbuljs/compare/istanbul-lib-hook-v3.0.0...istanbul-lib-hook-v3.0.1) (2023-10-10)
+
+
+### Bug Fixes
+
+* cobertura paths fix ([da017c3](https://github.com/Aeolun/istanbuljs/commit/da017c339fb7cd2af093d0205b0d638814774efb))
+
 ## [2.0.7](https://github.com/istanbuljs/istanbuljs/compare/istanbul-lib-hook@2.0.6...istanbul-lib-hook@2.0.7) (2019-04-24)
 
 **Note:** Version bump only for package istanbul-lib-hook

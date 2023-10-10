@@ -51,6 +51,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [3.0.2](https://github.com/Aeolun/istanbuljs/compare/istanbul-lib-report-v3.0.1...istanbul-lib-report-v3.0.2) (2023-10-10)
+
+
+### Bug Fixes
+
+* **deps:** update make-dir CVE-2022-25883 ([eab82a9](https://github.com/Aeolun/istanbuljs/commit/eab82a9aeff140a8fd2981c7f872830c985d479f))
+
 ## [3.0.1](https://github.com/istanbuljs/istanbuljs/compare/istanbul-lib-report-v3.0.0...istanbul-lib-report-v3.0.1) (2023-07-25)
 
 
